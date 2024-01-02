@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T03:00:18.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="io9CKJ4cH0vIf4tZPLCf" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T03:04:49.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kZgEoo3H7gjqb4Q_jyRJ" version="22.1.11" type="github">
   <diagram name="第 1 页" id="LyzLs8KSeAA5ORpxAnu4">
     <mxGraphModel dx="2314" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
           <mxGeometry x="40" y="1280" width="1110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eee_U3IOTz9vt7lkL6su-65" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;todo：&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;LK_uJqmxOScUrMiOZ7zq&quot;&gt;1. 需要和腾讯云确定最终的集群在新加坡还是法兰克福&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;LK_uJqmxOScUrMiOZ7zq&quot;&gt;2. 腾讯云测试flink 写入paimon&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;LK_uJqmxOScUrMiOZ7zq&quot;&gt;3. 腾讯云测试k8s集群&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;LK_uJqmxOScUrMiOZ7zq&quot;&gt;4. 数据资源管理系统建设并支持跨集群元数据合并&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;LK_uJqmxOScUrMiOZ7zq&quot;&gt;5. 自助查询系统支持查询路由到对应的集群&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;LK_uJqmxOScUrMiOZ7zq&quot;&gt;6. 跨集群数据关联方案调研&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="920" width="500" height="190" as="geometry" />
+          <mxGeometry x="1510" y="960" width="500" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
